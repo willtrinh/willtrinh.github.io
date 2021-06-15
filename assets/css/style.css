@@ -3003,13 +3003,13 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #007bff;
-  border-color: #007bff;
+  color: #2973c3;
+  border-color: #2973c3;
 }
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #2973c3;
+  border-color: #2973c3;
 }
 .btn-outline-primary:focus,
 .btn-outline-primary.focus {
@@ -3102,13 +3102,13 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-info {
-  color: #17a2b8;
-  border-color: #17a2b8;
+  color: #00798c;
+  border-color: #00798c;
 }
 .btn-outline-info:hover {
   color: #fff;
-  background-color: #17a2b8;
-  border-color: #17a2b8;
+  background-color: #00798c;
+  border-color: #00798c;
 }
 .btn-outline-info:focus,
 .btn-outline-info.focus {
@@ -10641,7 +10641,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999;
+  color: #6c757d;
 }
 body.menu-show {
   overflow: hidden;
@@ -10827,7 +10827,7 @@ h5,
 }
 .ftco-navbar-light .navbar-toggler {
   border: none;
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(255, 255, 255, 1) !important;
   cursor: pointer;
   padding-right: 0;
   text-transform: uppercase;
@@ -10896,7 +10896,7 @@ h5,
 }
 .ftco-navbar-light.scrolled .navbar-toggler {
   border: none;
-  color: rgba(0, 0, 0, 0.5) !important;
+  color: rgba(0, 0, 0, 1) !important;
   border-color: rgba(0, 0, 0, 0.5) !important;
   cursor: pointer;
   text-transform: uppercase;
