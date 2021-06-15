@@ -10753,7 +10753,7 @@ h5,
   height: 2px;
   bottom: 0;
   left: 0;
-  background: #2c6ba9;
+  background: #dc3545;
   visibility: visible;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -10907,7 +10907,7 @@ h5,
   color: #000000 !important;
 }
 .ftco-navbar-light.scrolled .nav-link.active {
-  color: #2c6ba9 !important;
+  color: #dc3545 !important;
 }
 .ftco-navbar-light.scrolled.awake {
   margin-top: 0px;
@@ -10940,7 +10940,7 @@ h5,
   width: 40px;
   height: 40px;
   content: '';
-  background: #2c6ba9;
+  background: #dc3646;
   z-index: -1;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -11195,6 +11195,7 @@ h5,
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 600;
+  border: 3px solid;
 }
 .btn:hover,
 .btn:active,
@@ -11677,7 +11678,7 @@ h5,
   bottom: 0;
   content: '';
   opacity: 0;
-  background: #2c6ba9;
+  background: #6c757d;
   z-index: -1;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;

@@ -303,10 +303,11 @@ AOS.init({
       this.txt = fullTxt.substring(0, this.txt.length + 1);
     }
 
-    this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
+    this.el.innerHTML =
+      '<span class="wrap text-danger">' + this.txt + '</span>';
 
     var that = this;
-    var delta = 300 - Math.random() * 100;
+    var delta = 150 - Math.random() * 100;
 
     if (this.isDeleting) {
       delta /= 2;
