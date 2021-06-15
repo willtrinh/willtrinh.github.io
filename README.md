@@ -8,4 +8,6 @@ https://willtrinh.com/
 
 ![Portfolio](https://raw.githubusercontent.com/willtrinh/willtrinh.github.io/master/assets/images/portfolio.gif)
 
+![Lighthouse](https://raw.githubusercontent.com/willtrinh/willtrinh.github.io/master/assets/images/lighthouse.png)
+
 ![Website](https://raw.githubusercontent.com/willtrinh/willtrinh.github.io/master/assets/images/website.png)
