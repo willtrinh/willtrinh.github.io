@@ -4,7 +4,7 @@ Portfolio is a single page web application that showcases my educational backgro
 
 ## Live Demo
 
-https://www.willtrinh.com/
+https://willtrinh.github.io/
 
 ### GIF
 ![Portfolio](https://raw.githubusercontent.com/willtrinh/willtrinh.github.io/master/assets/images/portfolio.gif)
